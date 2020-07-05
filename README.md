@@ -1,1 +1,1 @@
-# .pggi-bank
+# .piggi-bank
